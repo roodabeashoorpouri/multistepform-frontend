@@ -2,7 +2,7 @@ import * as React from "react";
 import Box from "@mui/material/Box";
 import Stepper from "@mui/material/Stepper";
 import StepLabel from "@mui/material/StepLabel";
-// import Button from "@mui/material/Button";
+import Button from "@mui/material/Button";
 import Paper from "@mui/material/Paper";
 import Typography from "@mui/material/Typography";
 import BackgroundImage from "../assets/images/bg-sidebar-desktop.svg";
